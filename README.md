@@ -1,2 +1,2 @@
-# SPYStockSelection
-Data Analysis Project
+# S&P 500 Stock Selection Project
+
